@@ -1,5 +1,6 @@
 ---
 title: "idk"
+author: "Lauren & Emily Dream Team!"
 format: html
 editor: source
 self-contained: true
